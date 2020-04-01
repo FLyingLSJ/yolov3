@@ -1,0 +1,4 @@
+classes= 20
+train=data/train_voc_2007.txt
+valid=data/val_voc_2007.txt
+names=data/custom.names
