@@ -17,10 +17,10 @@ VOC数据文件结构如下
 	- Annotations # XML文件
 	- ImageSets 
 	- Main
-    	    - test.txt
-            - train.txt
-            - trainval.txt
-        	- val.txt
+		|- test.txt
+	    |- train.txt
+    	|- trainval.txt
+    	|- val.txt
 	- JPEGImages # 图片
 ```
 
