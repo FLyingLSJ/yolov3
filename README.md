@@ -12,7 +12,7 @@ pip install -U -r requirements.txt
 
 VOC数据文件结构如下
 
-```bash
+```python
 - VOC2007
 	- Annotations # XML文件
 	- ImageSets 
