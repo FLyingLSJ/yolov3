@@ -270,7 +270,7 @@ wget -c https://pjreddie.com/media/files/yolov3-tiny.weights
 ### 训练
 
 ```bash
-python train.py --data data/custom.data --cfg cfg/yolov3-tiny-20cls.cfg --weights weights/yolov3-tiny.weights --epoch 50 --batch 16 --accum 4 --multi
+python train.py --data data/custom.data --cfg cfg/yolov3-tiny-20cls.cfg --weights weights/yolov3-tiny.weights --epoch 100 --batch 64 --accum 1 --multi
 ```
 
 ---
